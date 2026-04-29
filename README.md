@@ -1,3 +1,6 @@
+All the experiment is in one file one after another
+
+
 This lab covers implementation and evaluation of key machine learning algorithms including Decision Trees, 
 Random Forest, SVM, KNN, PCA, and model evaluation techniques. The focus is on comparing performance, 
 tuning parameters, and understanding model behavior.
